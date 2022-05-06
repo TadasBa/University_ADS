@@ -1,0 +1,9 @@
+100 15.0
+200 5.0
+10
+200
+
+amount amountDeviation
+cost   costDeviation
+surcharge
+days
